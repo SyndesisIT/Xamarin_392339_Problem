@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syn.DroidLinkerError", "Syn.DroidLinkerError\Syn.DroidLinkerError.csproj", "{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugPRO|Any CPU = DebugPRO|Any CPU
+		DEMO|Any CPU = DEMO|Any CPU
+		PRE|Any CPU = PRE|Any CPU
+		PRO|Any CPU = PRO|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DebugPRO|Any CPU.ActiveCfg = DebugPRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DebugPRO|Any CPU.Build.0 = DebugPRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DebugPRO|Any CPU.Deploy.0 = DebugPRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DEMO|Any CPU.ActiveCfg = DEMO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DEMO|Any CPU.Build.0 = DEMO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.DEMO|Any CPU.Deploy.0 = DEMO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRE|Any CPU.ActiveCfg = PRE|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRE|Any CPU.Build.0 = PRE|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRE|Any CPU.Deploy.0 = PRE|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRO|Any CPU.ActiveCfg = PRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRO|Any CPU.Build.0 = PRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.PRO|Any CPU.Deploy.0 = PRO|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C2D291-CC33-4223-A2DB-02CCE51CBA5C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9F6A0A-D14C-4140-9173-5D32AF57A6F6}
+	EndGlobalSection
+EndGlobal

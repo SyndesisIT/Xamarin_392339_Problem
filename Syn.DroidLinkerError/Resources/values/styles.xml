@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="DischargesTheme" parent="DischargesTheme.Base"></style>
+  <style name="DischargesTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="colorPrimary">#242224</item>
+    <item name="colorPrimaryDark">#1F1E1F</item>
+    <item name="colorAccent">#2A3748</item>
+    <item name="android:textColorPrimary">#1D1B1D</item>
+  </style>
+  <style name="DialogTheme" parent="DischargesTheme">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:colorBackgroundCacheHint">@null</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowFrame">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">false</item>
+    <item name="android:layout_margin">0dp</item>
+    <item name="android:padding">0dp</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+  <style name="CustomBlackDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+    <!-- Used for the buttons -->
+    <item name="colorAccent">#FFFFFF</item>
+    <!-- Used for the title and text -->
+    <item name="android:textColorPrimary">#FFFFFF</item>
+    <!-- Used for the background -->
+    <item name="android:background">@color/gnfrBlackColor</item>
+  </style>
+</resources>
